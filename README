@@ -1,6 +1,6 @@
 erezuni
 ===============================================================================
-Erez Hecht, ID 311248959, erez.hecht@mail.huji.ac.il
+Erez Hecht, erez.hecht@mail.huji.ac.il
 
 ===============================================================================
 
@@ -14,6 +14,4 @@ README - This file.
 VMTranslator.py - the python project.
 
 
-Remarks
--------
-Had to combine all py files into a single one. 
+
